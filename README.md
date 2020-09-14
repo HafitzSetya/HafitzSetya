@@ -28,4 +28,4 @@
 
 <h3 align="center">My Page</h3>
 
-[https://hafitzsetya.github.io](https://hafitzsetya.github.io)
+<align="center>[https://hafitzsetya.github.io](https://hafitzsetya.github.io)>
