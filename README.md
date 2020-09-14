@@ -17,6 +17,10 @@
 </a>
 <a href="https://t.me/hafitzXD">
   <img align="left" alt="Hafitz's Telegram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111673.svg" />
+</a>
+<a href="https://hafitzsetya.github.io">
+  <img align="left" alt="Hafitz's Pages" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111369.svg" />
+</a>
 <br /> <br />
 
 ### Stats
