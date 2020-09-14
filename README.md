@@ -1,7 +1,9 @@
 
 
-<h3 align="center">Hello 👋, I'm Hafitz Setya
-  <a href="https://hafitzsetya.github.io">Website</a></h3>
+<h3 align="center">Hello 👋, I'm Hafitz Setya</h3>
+<p align="center">
+  <a href="https://hafitzsetya.github.io">Website</a>
+</p>
 
 <p align="center"><a href="https://t.me/hafitzXD"><img src="https://telegra.ph/file/e961ac905faf8c8bd32b8.png" alt="Hafitz Setya" width="200" height="200"/></a></p>
 
