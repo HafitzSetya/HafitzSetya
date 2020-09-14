@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Hello 👋, I'm Hafitz Setya(https://hafitzsetya.github.io)</h3>
+<h3 align="center">Hello 👋, I'm Hafitz Setya</h3>
 
 <p align="center"><a href="https://t.me/hafitzXD"><img src="https://telegra.ph/file/e961ac905faf8c8bd32b8.png" alt="Hafitz Setya" width="200" height="200"/></a></p>
 
@@ -25,3 +25,7 @@
 <h3 align="center">Stats</h3>
 
 ![Hafitz's github stats](https://github-readme-stats.vercel.app/api?username=HafitzSetya&show_icons=true&hide_border=true)
+
+<h3 align="center">My Page</h3>
+
+<h3 align="center">[https://hafitzsetya.github.io](https://hafitzsetya.github.io)</h3>
