@@ -25,9 +25,9 @@
 </a>
 </p>
 
-### Stats
+<h3 align="center">Stats
 <details>
-  <summary>Click Here</summary>
+  <summary>Click Here</summary></h3>
 
 
 ![Hafitz's github stats](https://github-readme-stats.vercel.app/api?username=HafitzSetya&show_icons=true&hide_border=true)
