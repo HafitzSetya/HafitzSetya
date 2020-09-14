@@ -29,5 +29,5 @@
 </p>
 
 <p align="center">
-![Website](https://img.shields.io/website?style=for-the-badge&up_message=hafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io)
+![Website](https://img.shields.io/website?color=black&style=for-the-badge&up_message=hafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io)
 </p>
