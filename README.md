@@ -27,7 +27,5 @@
 <br /> <br />
 
 ### Stats
-<details>
-  <summary>Click Here</summary>
 
 ![Hafitz's github stats](https://github-readme-stats.vercel.app/api?username=HafitzSetya&show_icons=true&hide_border=true)
