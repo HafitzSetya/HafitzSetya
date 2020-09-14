@@ -23,9 +23,6 @@
 <a href="https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf?si=qTLQmHMkRgGv2ktdCy6pLQ">
   <img alt="Hafitz's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
-<a href="https://hafitzsetya.github.io">
-  <img alt="Hafitz's Pages" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111294.svg" />
-</a>
 </p>
 
 <h3 align="center">Stats</h3>
