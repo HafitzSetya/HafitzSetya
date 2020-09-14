@@ -24,7 +24,6 @@
   <img alt="Hafitz's Pages" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111294.svg" />
 </a>
 </p>
-<br /> <br />
 
 ### Stats
 
