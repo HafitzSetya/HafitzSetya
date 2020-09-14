@@ -26,6 +26,6 @@
 
 <p align="center">
   <a href="https://hafitzsetya.github.io">https://hafitzsetya.github.io</a>
-</p>
 
-![Website](https://img.shields.io/website?style=for-the-badge&up_message=hafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io)
+
+![Website](https://img.shields.io/website?style=for-the-badge&up_message=hafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io)</p>
