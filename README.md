@@ -25,9 +25,9 @@
 </a>
 </p>
 
-<h1 align="center">Stats
+<h3 align="center">Stats</h3>
 <details>
   <summary>Click Here</summary>
 
 
-![Hafitz's github stats](https://github-readme-stats.vercel.app/api?username=HafitzSetya&show_icons=true&hide_border=true)</h1>
+![Hafitz's github stats](https://github-readme-stats.vercel.app/api?username=HafitzSetya&show_icons=true&hide_border=true)
