@@ -29,5 +29,5 @@
 </p>
 
   <a href="https://https://hafitzsetya.github.io">
-    <img src="(https://img.shields.io/website?style=for-the-badge&up_message=https://hafitzsetya.github.io)">
+    <img src="(https://img.shields.io/website?style=for-the-badge)">
   </a>
