@@ -24,9 +24,11 @@
 
 <h3 align="center">My Pages</h3>
 
+```
 <p align="center">
   <a href="https://hafitzsetya.github.io">https://hafitzsetya.github.io</a>
 </p>
+```
 
   <a href="https://hafitzsetya.github.io">
     <img src="(https://img.shields.io/website/http/https://hafitzsetya.github.io/path/to/page.html.svg)">
