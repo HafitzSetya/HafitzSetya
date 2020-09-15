@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-<a href="
-(https://img.shields.io/website?style=flat-square&up_message=https%3A%2F%2Fhafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io)
+  <a href="
+![Website](https://img.shields.io/website?style=flat-square&up_message=https%3A%2F%2Fhafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io)
 </a>
 </p>
