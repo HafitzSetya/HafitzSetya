@@ -24,8 +24,4 @@
 
 <h3 align="center">My Pages</h3>
 
-<p align="center">
-  <a href="https://hafitzsetya.github.io">https://hafitzsetya.github.io</a>
-</p>
-
 <p align="center"><a href="https://hafitzsetya.github.io/"> <img src="https://img.shields.io/website?style=for-the-badge&up_color=black&up_message=https%3A%2F%2Fhafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io"/></a></p>
