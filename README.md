@@ -24,12 +24,10 @@
 
 <h3 align="center">My Pages</h3>
 
-'''
 <p align="center">
   <a href="https://hafitzsetya.github.io">https://hafitzsetya.github.io</a>
 </p>
-'''
 
   <a href="
-    <img src="(https://img.shields.io/website?style=for-the-badge)">
+    <img src="(https://img.shields.io/website?style=for-the-badge/https://hafitzsetya.github.io)">
   </a>
