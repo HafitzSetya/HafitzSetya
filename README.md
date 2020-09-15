@@ -27,7 +27,3 @@
 <p align="center">
   <a href="https://hafitzsetya.github.io">https://hafitzsetya.github.io</a>
 </p>
-
-```
-     https://hafitzsetya.github.io
-```
