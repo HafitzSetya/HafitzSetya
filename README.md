@@ -24,10 +24,12 @@
 
 <h3 align="center">My Pages</h3>
 
-```
 <p align="center">
   <a href="https://hafitzsetya.github.io">https://hafitzsetya.github.io</a>
 </p>
+
+```
+[https://hafitzsetya.github.io](https://hafitzsetya.github.io)
 ```
 
   <a href="https://hafitzsetya.github.io">
