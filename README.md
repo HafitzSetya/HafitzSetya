@@ -28,6 +28,6 @@
   <a href="https://hafitzsetya.github.io">https://hafitzsetya.github.io</a>
 </p>
 
-  <a href="
+  <a href="https://hafitzsetya github.io
     <img src="(https://img.shields.io/website/http/https://hafitzsetya.github.io/path/to/page.html.svg)">
   </a>
