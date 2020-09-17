@@ -27,9 +27,7 @@
 <p align="center"><a href="https://hafitzsetya.github.io/"> <img src="https://img.shields.io/website?label=%20&style=for-the-badge&up_color=black&up_message=https%3A%2F%2Fhafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io"/></a></p>
 
 <h3 align="center">
-<details>
-  <summary>Now Playing</summary>
-</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7wxw9ydcqjc4ta495h73jpcjf&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 
+</h3>
