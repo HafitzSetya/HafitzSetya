@@ -28,9 +28,9 @@
 
 [![Website](https://img.shields.io/badge/Website-https://gd.hafitz666.workers.dev-informational?style=for-the-badge&color=black&label=%20)](https://gd.hafitz666.workers.dev)
 
+<p align="center"><a href="https://gd.hafitz666.workers.dev"> <img src="
 
-
-<h3 align="center">
+<h3 align="center">https://img.shields.io/badge/Website-https://gd.hafitz666.workers.dev-informational?style=for-the-badge&color=black&label=%20"/></a></p>
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7wxw9ydcqjc4ta495h73jpcjf&cover_image=true)
 
