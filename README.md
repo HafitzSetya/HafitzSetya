@@ -28,6 +28,6 @@
 
 <h3 align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7wxw9ydcqjc4ta495h73jpcjf&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7wxw9ydcqjc4ta495h73jpcjf&cover_image=true)
 
 </h3>
