@@ -26,6 +26,9 @@
 
 <p align="center"><a href="https://hafitzsetya.github.io/"> <img src="https://img.shields.io/website?label=%20&style=for-the-badge&up_color=black&up_message=https%3A%2F%2Fhafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io"/></a></p>
 
+<p align="center"><a https://img.shields.io/badge/Website-https://gd.hafitz666.workers.dev-informational?style=for-the-badge&color=black&label=%20"> <img src="https://gd.hafitz666.workers.dev"/></a></p>
+
+
 <h3 align="center">
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7wxw9ydcqjc4ta495h73jpcjf&cover_image=true)
