@@ -6,10 +6,9 @@ Hello my name is Hafitz Setya🧒 from Kediri, Indonesia🇲🇨,
 You can call me a noob
 </samp>
 
-<h3 align="center">Follow & Contact Me</h3>
+# Follow & Contact Me
 
 <br/>
-<p align="center">
 <a href="https://www.facebook.com/martin.rayendra">
   <img alt="Hafitz's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
