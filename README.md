@@ -5,7 +5,6 @@ Hi, my name is Hafitz Setya🧒 from Kediri, Indonesia🇲🇨,
 You can call me a noob
 </samp>
 
-___
 ### Follow & Contact Me
 
 <br/>
@@ -26,7 +25,6 @@ ___
 </a>
 </p>
 
-___
 ### My Pages</h3>
 
 <a href="https://hafitzsetya.github.io/"> <img src="https://img.shields.io/website?label=%20&style=for-the-badge&up_color=black&up_message=hafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io"/></a></p>
