@@ -1,12 +1,10 @@
 
-<h3 align="center">Hello, folks!👋</h3>
+# Hello, folks!👋
 
-<p align="center">
 <samp>
 Hello my name is Hafitz Setya🧒 from Kediri, Indonesia🇲🇨,
 You can call me a noob
 </samp>
-</p>
 
 <h3 align="center">Follow & Contact Me</h3>
 
