@@ -9,10 +9,10 @@
 <br/>
 <p align="center">
 <a href="https://www.facebook.com/martin.rayendra">
-  <img alt="Hafitz's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+  <img alt="Hafitz's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
 <a href="https://www.instagram.com/hafitzsetya_21">
-  <img aalt="Hafitz's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img aalt="Hafitz's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
 <p align="center">
 <a href="https://www.twitter.com/21Hafitz">
