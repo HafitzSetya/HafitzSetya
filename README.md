@@ -36,6 +36,7 @@ You can call me a noob
 <details>
   <summary>Now Playing</summary>
 [spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7wxw9ydcqjc4ta495h73jpcjf&cover_image=true)
+</a>
 
 <details>
   <summary>Github Stats</summary>
