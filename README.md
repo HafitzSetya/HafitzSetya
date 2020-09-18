@@ -36,7 +36,7 @@ ___
 <details>
   <summary>Now Playing</summary>
 <!-- Spotify -->
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=)]7wxw9ydcqjc4ta495h73jpcjf&cover_image=true)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=7wxw9ydcqjc4ta495h73jpcjf&cover_image=true)
 
 <details>
   <summary>Github Stats</summary>
