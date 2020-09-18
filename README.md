@@ -4,7 +4,7 @@
 Hi, my name is Hafitz Setya🧒 from Kediri, Indonesia🇲🇨,
 You can call me a noob
 </samp>
-___________________________
+___________________________________________________
 
 ### Follow & Contact Me
 
