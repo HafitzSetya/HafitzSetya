@@ -1,5 +1,5 @@
 
-<h3 align="center">Hello 👋, I'am [Hafitz Setya](https://github.com/HafitzSetya)</h3>
+<h3 align="center">Hello 👋, I'am Hafitz Setya</h3>
 
 <p align="center">I'am from Indonesia🇲🇨, You can call me a noob</p>
 
