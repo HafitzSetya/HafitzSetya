@@ -1,5 +1,5 @@
 
-<h3 align="center">Hi<img src="https://raw.githubusercontent.com/HafitzSetya/HafitzSetya/master/wave.gif" width="30px">, Nice to see you.</h3>
+<h3 align="center">Hello, folks!<img src="https://raw.githubusercontent.com/HafitzSetya/HafitzSetya/master/wave.gif" width="30px"></h3>
 
 <p align="center">
 <samp>
