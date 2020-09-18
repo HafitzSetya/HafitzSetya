@@ -3,7 +3,7 @@
 
 <p align="center">
 <samp>
-I'am Hafitz Setya! 18 year's old, & I'am from Indonesia🇲🇨,
+Hello my name is Hafitz Setya! from Indonesia🇲🇨,
 You can call me a noob
 </samp>
 </p>
