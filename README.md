@@ -3,7 +3,7 @@
 
 <p align="center">
 <samp>
-Hello my name is Hafitz Setya🧑 from Indonesia🇲🇨,
+Hello my name is Hafitz Setya🧑 from Kediri, Indonesia🇲🇨,
 You can call me a noob
 </samp>
 </p>
