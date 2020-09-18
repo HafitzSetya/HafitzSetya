@@ -33,6 +33,7 @@ You can call me a noob
 
 <a href="https://gd.hafitz666.workers.dev"> <img src="https://img.shields.io/badge/Website-gd.hafitz666.workers.dev-informational?style=for-the-badge&color=black&label=%20"/></a></p>
 
-
+<details>
+  <summary>Now Playing</summary>
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7wxw9ydcqjc4ta495h73jpcjf&cover_image=true)
 
