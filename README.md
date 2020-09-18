@@ -6,6 +6,7 @@
 
 <h3 align="center">Follow & Contact Me</h3>
 
+<div align="center">
 <br/>
 <p align="center">
 <a href="https://www.facebook.com/martin.rayendra">
