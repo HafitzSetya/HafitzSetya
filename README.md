@@ -6,7 +6,7 @@ Hello my name is Hafitz Setya🧒 from Kediri, Indonesia🇲🇨,
 You can call me a noob
 </samp>
 
-# Follow & Contact Me
+### Follow & Contact Me
 
 <br/>
 <a href="https://www.facebook.com/martin.rayendra">
@@ -27,11 +27,11 @@ You can call me a noob
 </p>
 
 
-<h3 align="center">My Pages</h3>
+### My Pages</h3>
 
-<p align="center"><a href="https://hafitzsetya.github.io/"> <img src="https://img.shields.io/website?label=%20&style=for-the-badge&up_color=black&up_message=hafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io"/></a></p>
+<a href="https://hafitzsetya.github.io/"> <img src="https://img.shields.io/website?label=%20&style=for-the-badge&up_color=black&up_message=hafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io"/></a></p>
 
-<p align="center"><a href="https://gd.hafitz666.workers.dev"> <img src="https://img.shields.io/badge/Website-gd.hafitz666.workers.dev-informational?style=for-the-badge&color=black&label=%20"/></a></p>
+<a href="https://gd.hafitz666.workers.dev"> <img src="https://img.shields.io/badge/Website-gd.hafitz666.workers.dev-informational?style=for-the-badge&color=black&label=%20"/></a></p>
 
 <h3 align="center">
 
