@@ -12,10 +12,10 @@ You can call me a noob
   <img alt="Hafitz's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
 <a href="https://www.instagram.com/hafitzsetya_21">
-  <img aalt="Hafitz's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img alt="Hafitz's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
 <a href="https://www.twitter.com/21Hafitz">
-  <img aalt="Hafitz's Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+  <img alt="Hafitz's Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
 <a href="https://t.me/hafitzXD">
   <img alt="Hafitz's Telegram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111673.svg" />
@@ -25,7 +25,6 @@ You can call me a noob
 </a>
 </p>
 
-
 ### My Pages</h3>
 
 <a href="https://hafitzsetya.github.io/"> <img src="https://img.shields.io/website?label=%20&style=for-the-badge&up_color=black&up_message=hafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io"/></a></p>
@@ -34,7 +33,7 @@ You can call me a noob
 ________________________________________
 <details>
   <summary>Now Playing</summary>
-<a href ="align"https://spotify-github-profile.vercel.app/api/view?uid=7wxw9ydcqjc4ta495h73jpcjf&cover_image=true</a>
+<a https://spotify-github-profile.vercel.app/api/view?uid=7wxw9ydcqjc4ta495h73jpcjf&cover_image=true</a>
 
 <details>
   <summary>Github Stats</summary>
