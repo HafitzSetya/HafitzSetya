@@ -35,5 +35,5 @@ You can call me a noob
 
 <details>
   <summary>Now Playing</summary>
-(https://spotify-github-profile.vercel.app/api/view?uid=7wxw9ydcqjc4ta495h73jpcjf&cover_image=true)
+[spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7wxw9ydcqjc4ta495h73jpcjf&cover_image=true)
 
