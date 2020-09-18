@@ -27,9 +27,9 @@
 
 <h3 align="center">My Pages</h3>
 
-<p align="center"><a href="hafitzsetya.github.io/"> <img src="https://img.shields.io/website?label=%20&style=for-the-badge&up_color=black&up_message=https%3A%2F%2Fhafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io"/></a></p>
+<p align="center"><a href="https://hafitzsetya.github.io/"> <img src="https://img.shields.io/website?label=%20&style=for-the-badge&up_color=black&up_message=https%3A%2F%2Fhafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io"/></a></p>
 
-<p align="center"><a href="gd.hafitz666.workers.dev"> <img src="https://img.shields.io/badge/Website-https://gd.hafitz666.workers.dev-informational?style=for-the-badge&color=black&label=%20"/></a></p>
+<p align="center"><a href="https://gd.hafitz666.workers.dev"> <img src="https://img.shields.io/badge/Website-gd.hafitz666.workers.dev-informational?style=for-the-badge&color=black&label=%20"/></a></p>
 
 <h3 align="center">
 
