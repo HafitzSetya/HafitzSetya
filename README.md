@@ -1,8 +1,6 @@
 
 <h3 align="center">Hello, folks!👋</h3>
 
-<img src="https://raw.githubusercontent.com/HafitzSetya/HafitzSetya/master/anu.mp4">
-
 <p align="center">
 <samp>
 Hello my name is Hafitz Setya🧒 from Kediri, Indonesia🇲🇨,
