@@ -34,7 +34,7 @@ ___
 <a href="https://gd.hafitz666.workers.dev"> <img src="https://img.shields.io/badge/Website-gd.hafitz666.workers.dev-informational?style=for-the-badge&color=black&label=%20"/></a></p>
 ___
 <details>
-  <summary>Now Playing</summary>
+  <summary>More</summary>
 <a href="https://github.com/HafitzSetya/HafitzSetya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafitzSetya&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
