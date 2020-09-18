@@ -1,5 +1,5 @@
 
-<h3 align="center">Hello, world!👋</h3>
+<h3 align="center">Hello, folks!👋</h3>
 
 <p align="center">
 <samp>
