@@ -1,7 +1,7 @@
 
-<h3 align="center">Hello 👋</h3>
+<h3 align="center">Hello 👋, I'am (Hafitz Setya)[https://github.com/HafitzSetya]</h3>
 
-<p align="center">I'm Hafitz Setya from Indonesia🇲🇨</p>
+<p align="center">I'am from Indonesia🇲🇨, You can call me a noob</p>
 
 <h3 align="center">Follow & Contact Me</h3>
 
