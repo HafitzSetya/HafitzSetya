@@ -2,7 +2,7 @@
 <h3 align="center">Hello 👋, I'am Hafitz Setya</h3>
 
 <p align="center">I'am from Indonesia🇲🇨,
-center">You can call me a noob</p>
+You can call me a noob</p>
 
 <h3 align="center">Follow & Contact Me</h3>
 
