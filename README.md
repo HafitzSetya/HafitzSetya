@@ -1,7 +1,7 @@
 
 <h3 align="center">Hello 👋</h3>
 
-<h2 align="
+<h3 align="
 I'm Hafitz Setya from Indonesia
 </h3>
 
