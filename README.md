@@ -2,7 +2,7 @@
 # Hello, folks!👋
 
 <samp>
-Hello my name is Hafitz Setya🧒 from Kediri, Indonesia🇲🇨,
+Hi my name is Hafitz Setya🧒 from Kediri, Indonesia🇲🇨,
 You can call me a noob
 </samp>
 
