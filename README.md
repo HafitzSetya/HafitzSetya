@@ -1,9 +1,4 @@
 
-
-<h3 align="center">Hello 👋, I'm Hafitz Setya</h3>
-
-<p align="center"><a href="https://github.com/HafitzSetya"><img src="https://telegra.ph/file/e961ac905faf8c8bd32b8.png" alt="Hafitz Setya" width="200" height="200"/></a></p>
-
 <h3 align="center">Follow & Contact Me</h3>
 
 <br/>
