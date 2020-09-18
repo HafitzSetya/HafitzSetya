@@ -1,9 +1,9 @@
 
 <h3 align="center">Hello 👋</h3>
 
-<h3 align="
+<br/> align="
 I'm Hafitz Setya from Indonesia
-</h3>
+</p>
 
 <h3 align="center">Follow & Contact Me</h3>
 
