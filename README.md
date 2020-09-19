@@ -20,6 +20,6 @@
 </p>
 
 <p align="center"><a href="
-<a href="https://hafitzsetya.github.io/"> <img src="https://img.shields.io/website?label=%20&style=for-the-badge&up_color=black&up_message=hafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io"/></a></p>
+<a href="https://hafitzsetya.github.io/"> <img src="https://img.shields.io/website?label=%20&style=for-the-badge&up_color=black&up_message=https://hafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io"/></a></p>
 <p align="center"><a href="
-<a href="https://gd.hafitz666.workers.dev"> <img src="https://img.shields.io/badge/Website-gd.hafitz666.workers.dev-informational?style=for-the-badge&color=black&label=%20"/></a></p>
+<a href="https://gd.hafitz666.workers.dev"> <img src="https://img.shields.io/badge/Website-https://gd.hafitz666.workers.dev-informational?style=for-the-badge&color=black&label=%20"/></a></p>
