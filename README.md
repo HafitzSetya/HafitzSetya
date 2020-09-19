@@ -1,12 +1,6 @@
-# Hello, folks!👋
+<p align="center"><a href="https://github.com/HafitzSetya"><img src="https://telegra.ph/file/15abd46c03f939cd77f4d.jpg" alt="Hafitz Setya"/></a></p>
 
-<samp>
-Hi, my name is Hafitz Setya🧒 from Kediri, Indonesia🇲🇨,
-You can call me a noob
-</samp>
-
-### Follow & Contact Me
-
+<p align="center"><a href="
 <br/>
 <a href="https://www.facebook.com/martin.rayendra">
   <img alt="Hafitz's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
@@ -25,8 +19,7 @@ You can call me a noob
 </a>
 </p>
 
-### My Pages</h3>
-
+<p align="center"><a href="
 <a href="https://hafitzsetya.github.io/"> <img src="https://img.shields.io/website?label=%20&style=for-the-badge&up_color=black&up_message=hafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io"/></a></p>
-
+<p align="center"><a href="
 <a href="https://gd.hafitz666.workers.dev"> <img src="https://img.shields.io/badge/Website-gd.hafitz666.workers.dev-informational?style=for-the-badge&color=black&label=%20"/></a></p>
