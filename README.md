@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/HafitzSetya"><img src="https://telegra.ph/file/a61d2f2951b310ce2da9c.jpg" alt="Hafitz Setya"/></a></p>
+<p align="center"><a href="https://github.com/HafitzSetya"><img src="https://telegra.ph/file/a9f966c39dee4c14208f0.jpg" alt="Hafitz Setya"/></a></p>
 
 <p align="center"><a href="
 <br/>
