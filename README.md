@@ -30,14 +30,3 @@ You can call me a noob
 <a href="https://hafitzsetya.github.io/"> <img src="https://img.shields.io/website?label=%20&style=for-the-badge&up_color=black&up_message=hafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io"/></a></p>
 
 <a href="https://gd.hafitz666.workers.dev"> <img src="https://img.shields.io/badge/Website-gd.hafitz666.workers.dev-informational?style=for-the-badge&color=black&label=%20"/></a></p>
-___
-<details>
-  <summary>More</summary>
-<a href="https://github.com/HafitzSetya/HafitzSetya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafitzSetya&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/HafitzSetya/HafitzSetya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HafitzSetya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hafitz's GitHub Stats" />
-</a>
-
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=7wxw9ydcqjc4ta495h73jpcjf&cover_image=true)
