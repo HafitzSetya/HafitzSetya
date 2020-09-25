@@ -1,7 +1,5 @@
 <p align="center"><a href="https://github.com/HafitzSetya"><img src="https://telegra.ph/file/9f2c7ba2b766d8042f63a.jpg" alt="Hafitz Setya"/></a></p>
 
-<h3 align="center">Follow & Contact Me</h3>
-
 <br/>
 <p align="center">
 <a href="https://www.facebook.com/martin.rayendra">
