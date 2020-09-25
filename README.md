@@ -1,4 +1,5 @@
-<p align="center"><a href="https://github.com/HafitzSetya"><img src="https://telegra.ph/file/e961ac905faf8c8bd32b8.png" alt="Hafitz Setya" width="200" height="200"/></a></p>
+<p align="center"><a href="https://github.com/HafitzSetya"><img src="https://telegra.ph/file/9f2c7ba2b766d8042f63a.jpg" alt="Hafitz Setya"/></a></p>
+
 <br/>
 <p align="center">
 <a href="https://www.facebook.com/martin.rayendra">
