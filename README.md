@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/HafitzSetya"><img src="https://telegra.ph/file/9f2c7ba2b766d8042f63a.jpg" alt="Hafitz Setya"/></a></p>
 
-<p align="center"> Follow & Contact Me </a>
+<p align="center"> ###Follow & Contact Me </a>
 
 <br/>
 <p align="center">
