@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/hafitzXD"><img src="https://telegra.ph/file/e961ac905faf8c8bd32b8.png" alt="Hafitz Setya" width="200" height="200"/></a></p>
+<p align="center"><a href="https://t.me/hafitzXD"><img src="https://telegra.ph/file/24896eb9ee5c34d32657f.png" alt="Hafitz Setya" width="200" height="200"/></a></p>
 
 <br/>
 <p align="center">
