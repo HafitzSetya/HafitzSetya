@@ -26,7 +26,7 @@
 - 💬 Ask me about anything, always ready to help.
 - ⚡ Fact: I am a Noobie.
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Hafitz&count=2&width=490)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Hafitz&count=3&width=490)
 
 <a href="https://github.com/HafitzSetya/HafitzSetya">
   <img src="https://github-readme-stats.vercel.app/api?username=HafitzSetya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hafitz's GitHub Stats" />
