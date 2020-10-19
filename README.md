@@ -1,5 +1,8 @@
 ## Hi👋, I'm Hafitz from Indonesia.
 
+<p align="center"><a href="https://github.com/HafitzSetya"><img src="https://telegra.ph/file/9f2c7ba2b766d8042f63a.jpg" alt="Hafitz Setya"/></a></p>
+
+
 <br/>
 <a href="https://www.facebook.com/hafitz21">
   <img alt="Hafitz's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
