@@ -1,4 +1,4 @@
-## Hi, I'm Hafitz, from Indonesia. <img src="https://raw.githubusercontent.com/HafitzSetya/test/Master/assets/Hi.gif" width="30px">
+## Hi👋, I'm Hafitz, from Indonesia.
 
 <br/>
 <a href="https://www.facebook.com/hafitz21">
