@@ -2,8 +2,8 @@
 
 <p align="center"><a href="https://github.com/HafitzSetya"><img src="https://telegra.ph/file/9f2c7ba2b766d8042f63a.jpg" alt="Hafitz Setya"/></a></p>
 
-
 <br/>
+<p align="center">
 <a href="https://www.facebook.com/hafitz21">
   <img alt="Hafitz's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
@@ -20,6 +20,7 @@
   <img alt="Hafitz's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
 </p>
+<p align="center">
 <a href="https://hafitzsetya.github.io/"> <img src="https://img.shields.io/website?label=%20&style=for-the-badge&up_color=black&up_message=hafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io"/></a></p>
 
 **Talking about Personal Stuffs:**
