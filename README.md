@@ -1,7 +1,6 @@
-<p align="center"><a href="https://github.com/HafitzSetya"><img src="https://telegra.ph/file/9f2c7ba2b766d8042f63a.jpg" alt="Hafitz Setya"/></a></p>
+## Hi, I'm Hafitz, from Indonesia. <img src="https://raw.githubusercontent.com/HafitzSetya/test/Master/assets/Hi.gif" width="30px">
 
 <br/>
-<p align="center">
 <a href="https://www.facebook.com/hafitz21">
   <img alt="Hafitz's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
@@ -18,9 +17,17 @@
   <img alt="Hafitz's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
 </p>
-
-<p align="center">
 <a href="https://hafitzsetya.github.io/"> <img src="https://img.shields.io/website?label=%20&style=for-the-badge&up_color=black&up_message=hafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io"/></a></p>
 
-<p align="center">
-<a href="https://gd.hafitz666.workers.dev"> <img src="https://img.shields.io/badge/Website-gd.hafitz666.workers.dev-informational?style=for-the-badge&color=black&label=%20"/></a></p>
+**Talking about Personal Stuffs:**
+- 👬 I’m looking to collaborate on Project.
+- 🔭 I’m currently working on something cool 😉
+- 👀 I’m looking for help with Open Source.
+- 💬 Ask me about anything, always ready to help.
+- ⚡ Fact: I am a Noobie.
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Hafitz&count=3&width=490)
+
+<a href="https://github.com/HafitzSetya/HafitzSetya">
+  <img src="https://github-readme-stats.vercel.app/api?username=HafitzSetya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hafitz's GitHub Stats" />
+</a>
