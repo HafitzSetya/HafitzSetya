@@ -24,6 +24,3 @@
 
 <p align="center">
 <a href="https://gd.hafitz666.workers.dev"> <img src="https://img.shields.io/badge/Website-gd.hafitz666.workers.dev-informational?style=for-the-badge&color=black&label=%20"/></a></p>
-
-<p align="center">
-<a href="https://lastfm-recently-played.vercel.app/api?user=Hafitz"/></a></p>
