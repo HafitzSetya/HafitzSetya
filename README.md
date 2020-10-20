@@ -30,8 +30,6 @@
 - 💬 Ask me about anything, always ready to help.
 - ⚡ Fact: I am a Noobie.
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Hafitz&count=3&width=490)
-
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=ceqec8djgav5tbq8mm5m26d1s&count=3&width=490)
 
 <a href="https://github.com/HafitzSetya/HafitzSetya">
