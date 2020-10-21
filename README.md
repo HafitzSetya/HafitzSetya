@@ -17,7 +17,7 @@
   <img alt=Hafitz's Discord" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111310.svg" />
 </a>
 </p>
-<p align="center">
+<p align=
 <a href="https://hafitzsetya.github.io/"> <img src="https://img.shields.io/website?label=%20&style=for-the-badge&up_color=black&up_message=hafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io"/></a></p>
 
 **Talking about Personal Stuffs:**
