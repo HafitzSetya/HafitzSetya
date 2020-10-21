@@ -3,7 +3,7 @@
 <p align="center"><a href="https://github.com/HafitzSetya"><img src="https://telegra.ph/file/9f2c7ba2b766d8042f63a.jpg" alt="Hafitz Setya"/></a></p>
 
 <br/>
-<p align="center">
+<p align=
 <a href="https://www.instagram.com/hafitzsetya_21">
   <img alt="Hafitz's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
