@@ -25,7 +25,7 @@
 - 💬 Ask me about anything, always ready to help.
 - ⚡ Fact: I am a Noobie.
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=ceqec8djgav5tbq8mm5m26d1s&count=3&width=490)
+[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=ceqec8djgav5tbq8mm5m26d1s&count=3&width=490)](https://open.spotify.com/user/ceqec8djgav5tbq8mm5m26d1s?si=_8B5RlThTDaZX3-jYfQkIw)
 
 <a href="https://github.com/HafitzSetya/HafitzSetya">
   <img src="https://github-readme-stats.vercel.app/api?username=HafitzSetya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hafitz's GitHub Stats" />
