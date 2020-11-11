@@ -1,5 +1,5 @@
 <h2 align="center">Hi👋, I'm Hafitz from</h2>
-<h2 align="center">Indonesia.</h2>
+Indonesia.</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HafitzSetya/HafitzSetya/master/Signs%20of%20the%20Swarm.png">
