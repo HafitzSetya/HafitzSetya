@@ -1,6 +1,10 @@
 <h2 align="center">Hi👋, I'm Hafitz from Indonesia.</h2>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/HafitzSetya/archives/Master/Brand%20of%20Sacrifice.png">
+</p>
+
+<p align="center">
   <a href="https://www.instagram.com/hafitzsetya_21">
   <img alt="Hafitz's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
