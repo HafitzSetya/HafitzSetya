@@ -1,8 +1,7 @@
-## Hi👋, I'm Hafitz from Indonesia.
+<h2 align="center">Hi👋, I'm Hafitz from Indonesia.</h2>
 
-<br/>
-<p align="left">
-<a href="https://www.instagram.com/hafitzsetya_21">
+<p align="center">
+  <a href="https://www.instagram.com/hafitzsetya_21">
   <img alt="Hafitz's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
 <a href="https://t.me/hafitzXD">
@@ -15,7 +14,7 @@
   <img alt=Hafitz's Discord" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111310.svg" />
 </a>
 </p>
-<p align="left">
+<p align="center">
 <a href="https://hafitzsetya.github.io/"> <img src="https://img.shields.io/website?label=%20&style=for-the-badge&up_color=black&up_message=hafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io"/></a></p>
 
 **Talking about Personal Stuffs:**
@@ -25,8 +24,9 @@
 - 💬 Ask me about anything, always ready to help.
 - ⚡ Fact: I am a Noobie.
 
-[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=ceqec8djgav5tbq8mm5m26d1s&count=3&width=490)](https://open.spotify.com/user/ceqec8djgav5tbq8mm5m26d1s?si=_8B5RlThTDaZX3-jYfQkIw)
+<p align="center">
+  <a href="https://open.spotify.com/user/ceqec8djgav5tbq8mm5m26d1s" > <img src="https://spotify-recently-played-readme.vercel.app/api?user=ceqec8djgav5tbq8mm5m26d1s&count=3&width=490" alt="Spotify-Recent" /></a>
+</p>
 
-<a href="https://github.com/HafitzSetya/HafitzSetya">
-  <img src="https://github-readme-stats.vercel.app/api?username=HafitzSetya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hafitz's GitHub Stats" />
-</a>
+<p align="center"><a href="https://github.com/HafitzSetya"><img src="https://github-readme-stats.vercel.app/api?username=HafitzSetya&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"></a></p>
+<p align="center">
