@@ -1,7 +1,7 @@
 <h2 align="center">Hi👋, I'm Hafitz from Indonesia.</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HafitzSetya/HafitzSetya/master/Shrine_Of_Malice_720x.png">
+  <img src="https://raw.githubusercontent.com/HafitzSetya/HafitzSetya/master/80-800700_swarm-png.png">
 </p>
 
 <p align="center">
