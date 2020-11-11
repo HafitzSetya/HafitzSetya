@@ -22,12 +22,12 @@
 <a href="https://hafitzsetya.github.io/"> <img src="https://img.shields.io/website?label=%20&style=for-the-badge&up_color=black&up_message=hafitzsetya.github.io&url=https%3A%2F%2Fhafitzsetya.github.io"/></a></p>
 
 ```
-     Talking about Personal Stuffs:
-        "I’m looking to collaborate on Project."
-        "I’m currently working on something cool."
-        "I’m looking for help with Open Source."
-        "Ask me about anything, always ready to help."
-        "Fact: I am a Noobie."
+  Talking about Personal Stuffs:
+     "I’m looking to collaborate on Project."
+     "I’m currently working on something cool."
+     "I’m looking for help with Open Source."
+     "Ask me about anything, always ready to help."
+     "Fact: I am a Noobie."
 ```
 
 <p align="center">
