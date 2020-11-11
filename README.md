@@ -36,4 +36,4 @@
 
 <p align="center"><a href="https://github.com/HafitzSetya"><img src="https://github-readme-stats.vercel.app/api?username=HafitzSetya&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"></a></p>
 
-<p align="center"><a href="https://github.com/HafitzSetya"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafitzSetya&theme=dark&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/HafitzSetya"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafitzSetya&theme=dark&layout=compact&line_height=27"></a></p>
