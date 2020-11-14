@@ -1,7 +1,8 @@
 <h2 align="center">Hi👋, I'm Hafitz from Indonesia. </h2>
 
 <p align="center">
-<href="https://youtu.be/xFRmvS3EaVc"> <img src="https://raw.githubusercontent.com/HafitzSetya/HafitzSetya/master/Signs%20of%20the%20Swarm.png"/></a></p>
+  <img src="https://raw.githubusercontent.com/HafitzSetya/HafitzSetya/master/Signs%20of%20the%20Swarm.png">
+</p>
 
 <p align="center">
   <a href="https://www.instagram.com/hafitzsetya_21">
