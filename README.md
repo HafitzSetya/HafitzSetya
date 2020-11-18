@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://youtu.be/xFRmvS3EaVc">
-  <img src="https://raw.githubusercontent.com/HafitzSetya/HafitzSetya/master/Signs%20of%20the%20Swarm.png"/>
+  <img src="https://raw.githubusercontent.com/HafitzSetya/breakdowns/master/Signs%20of%20the%20Swarm.png"/>
 </p>
 
 <p align="center">
@@ -35,6 +35,6 @@
   <a href="https://open.spotify.com/user/ceqec8djgav5tbq8mm5m26d1s" > <img src="https://spotify-recently-played-readme.vercel.app/api?user=ceqec8djgav5tbq8mm5m26d1s&count=3&width=490" alt="Spotify-Recent" /></a>
 </p>
 
-<p align="center"><a href="https://github.com/Breakdowns"><img src="https://github-readme-stats.vercel.app/api?username=Breakdowns&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"></a></p>
+<p align="center"><a href="https://github.com/breakdowns"><img src="https://github-readme-stats.vercel.app/api?username=breakdowns&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"></a></p>
 
-<p align="center"><a href="https://github.com/Breakdowns"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breakdowns&theme=dark&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/breakdowns"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breakdowns&theme=dark&layout=compact"></a></p>
