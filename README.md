@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://youtu.be/xFRmvS3EaVc">
-  <img src="https://raw.githubusercontent.com/HafitzSetya/breakdowns/master/Signs%20of%20the%20Swarm.png"/>
+  <img src="https://raw.githubusercontent.com/breakdowns/breakdowns/master/Signs%20of%20the%20Swarm.png"/>
 </p>
 
 <p align="center">
