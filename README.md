@@ -37,3 +37,4 @@
 
 <p align="center"><a href="https://github.com/breakdowns"><img src="https://github-readme-stats.vercel.app/api?username=breakdowns&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"></a></p>
 
+https://github-stats-alpha.vercel.app/api/?username=breakdowns&cc=1a1a1c&tc=df6d74&ic=df6d74
