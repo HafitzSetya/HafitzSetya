@@ -30,8 +30,6 @@
      "Ask me about anything, always ready to help."
      "Fact: I am a Noobie."
 ```
-<h4 align="center">My Music Activity :</h2>
-
 -----
 
 <p align="center">
@@ -39,8 +37,6 @@
 </p>
 
 -----
-
-<h4 align="center">My Github Stats :</h2>
 
 <p align="center"><a href="https://github.com/breakdowns"><img src="https://github-readme-stats.vercel.app/api?username=breakdowns&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"></a></p>
 
