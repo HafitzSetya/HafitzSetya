@@ -32,9 +32,11 @@
 ```
 <h4 align="center">My Music Activity :</h2>
 --------------------
+--------------------
 <p align="center">
   <a href="https://open.spotify.com/user/ceqec8djgav5tbq8mm5m26d1s" > <img src="https://spotify-recently-played-readme.vercel.app/api?user=ceqec8djgav5tbq8mm5m26d1s&count=3&width=490" alt="Spotify-Recent" /></a>
 </p>
+--------------------
 --------------------
 <h4 align="center">My Github Stats :</h2>
 
