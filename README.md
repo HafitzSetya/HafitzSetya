@@ -35,5 +35,7 @@
   <a href="https://open.spotify.com/user/ceqec8djgav5tbq8mm5m26d1s" > <img src="https://spotify-recently-played-readme.vercel.app/api?user=ceqec8djgav5tbq8mm5m26d1s&count=3&width=490" alt="Spotify-Recent" /></a>
 </p>
 
+<h2 align="center">My Github Stats :</h2>
+
 <p align="center"><a href="https://github.com/breakdowns"><img src="https://github-readme-stats.vercel.app/api?username=breakdowns&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"></a></p>
 
