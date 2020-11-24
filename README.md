@@ -1,3 +1,5 @@
+<h2 align="center">Hi👋, I'm Hafitz from Indonesia.</h2>
+
 <p align="center">
 <a href="https://youtu.be/iG1gPLOceCQ">
   <img src="https://raw.githubusercontent.com/breakdowns/breakdowns/master/Shrine%20Of%20Malice.png"/>
@@ -19,6 +21,15 @@
 </p>
 <p align="center">
 <a href="https://breakdowns.github.io/"> <img src="https://img.shields.io/website?label=%20&style=for-the-badge&up_color=black&up_message=breakdowns.github.io&url=https%3A%2F%2Fbreakdowns.github.io"/></a></p>
+
+```
+  Talking about Personal Stuffs:
+     "I’m looking to collaborate on Project."
+     "I’m currently working on something cool."
+     "I’m looking for help with Open Source."
+     "Ask me about anything, always ready to help."
+     "Fact: I am a Noobie."
+```
 
 <p align="center">
   <a href="https://open.spotify.com/user/ceqec8djgav5tbq8mm5m26d1s" > <img src="https://spotify-recently-played-readme.vercel.app/api?user=ceqec8djgav5tbq8mm5m26d1s&count=3&width=490" alt="Spotify-Recent" /></a>
