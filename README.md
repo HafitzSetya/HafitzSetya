@@ -12,9 +12,6 @@
 <a href="https://t.me/hafitzXD">
   <img alt="Hafitz's Telegram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111673.svg" />
 </a>
-<a href="https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf?si=qTLQmHMkRgGv2ktdCy6pLQ">
-  <img alt="Hafitz's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
-</a>
 <a href="https://discordapp.com/users/455173359924412434">
   <img alt=Hafitz's Discord" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111310.svg" />
 </a>
