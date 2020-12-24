@@ -17,6 +17,8 @@
 <a href="https://discordapp.com/users/455173359924412434">
   <img alt=Hafitz's Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
+</p>	
+<p align="center">
 <a href="https://breakdowns.github.io/"> <img src="https://img.shields.io/website?label=%20&style=for-the-badge&up_color=black&up_message=breakdowns.github.io&url=https%3A%2F%2Fbreakdowns.github.io"/></a></p>
 
 <h2 align="center">About</h2>
