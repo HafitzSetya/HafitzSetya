@@ -17,7 +17,7 @@
 </a>
 </p>
 
-<h4 align="center">About Me🧛</h4>
+<h4 align="center">About Me 🧛</h4>
 
 ```
 "I’m looking to collaborate on Project."
@@ -27,12 +27,12 @@
 "Fact: I am a Noobie."
 ```
 
-<h4 align="center">Recently played🎵</h4>
+<h4 align="center">Recently played 🎶</h4>
 
 <p align="center">
   <img src="https://lastfm-recently-played.vercel.app/api?user=Hafitz&count=3&width=490" alt="Last.fm-Recent" /></a>
 </p>
 
-<h4 align="center">Github Stats🦑</h4>
+<h4 align="center">Github Stats 🐙</h4>
 
 <p align="center"><a href="https://github.com/breakdowns"><img src="https://github-readme-stats.vercel.app/api?username=breakdowns&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"></a></p>
