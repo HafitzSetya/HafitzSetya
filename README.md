@@ -20,11 +20,11 @@
 <h4 align="center">About Me🧛</h4>
 
 ```
-   "I’m looking to collaborate on Project."
-   "I’m currently working on something cool."
-   "I’m looking for help with Open Source."
-   "Ask me about anything, always ready to help."
-   "Fact: I am a Noobie."
+"I’m looking to collaborate on Project."
+"I’m currently working on something cool."
+"I’m looking for help with Open Source."
+"Ask me about anything, always ready to help."
+"Fact: I am a Noobie."
 ```
 
 <h4 align="center">Recently played🎵</h4>
