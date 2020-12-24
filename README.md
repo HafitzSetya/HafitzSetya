@@ -35,4 +35,4 @@
 
 <h4 align="center">Github Stats🦑</h4>
 
-<p align="center"><a href="https://github.com/breakdowns"><img src="https://github-readme-stats.vercel.app/api?username=breakdowns&&show_icons=true&line_height=27&count_private=true&theme=graywhite"></a></p>
+<p align="center"><a href="https://github.com/breakdowns"><img src="https://github-readme-stats.vercel.app/api?username=breakdowns&&show_icons=true&line_height=27&count_private=true&theme=nord"></a></p>
