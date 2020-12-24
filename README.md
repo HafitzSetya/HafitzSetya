@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://youtu.be/iG1gPLOceCQ">
-  <img src="https://raw.githubusercontent.com/breakdowns/breakdowns/master/ShrineOfMalice.png"/>
+  <img src="https://telegra.ph/file/a30c5dfe38ef486585108.jpg"/>
 </p>
 
 <p align="center">
