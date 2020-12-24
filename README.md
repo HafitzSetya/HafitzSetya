@@ -23,14 +23,14 @@
 
 <h2 align="center">About</h2>
 
-```
+`
   Talking about Personal Stuffs:
      "I’m looking to collaborate on Project."
      "I’m currently working on something cool."
      "I’m looking for help with Open Source."
      "Ask me about anything, always ready to help."
      "Fact: I am a Noobie."
-```
+`
 
 <h2 align="center">Recently played</h2>
 
