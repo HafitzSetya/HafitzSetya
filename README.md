@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/hafitzsetya_21">
-  <img alt="Hafitz's Instagram" width="35px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img alt="Hafitz's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://t.me/hafitzXD">
   <img alt="Hafitz's Telegram" width="35px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
