@@ -5,19 +5,23 @@
   <img src="https://raw.githubusercontent.com/breakdowns/breakdowns/P/IMG_20201224_101202.jpg"/>
 </p>
 
+<h2 align="center">Social</h2>
+
 <p align="center">
   <a href="https://www.instagram.com/hafitzsetya_21">
-  <img alt="Hafitz's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img alt="Hafitz's Instagram" width="35px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://t.me/hafitzXD">
-  <img alt="Hafitz's Telegram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111673.svg" />
+  <img alt="Hafitz's Telegram" width="35px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://discordapp.com/users/455173359924412434">
-  <img alt=Hafitz's Discord" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111310.svg" />
+  <img alt=Hafitz's Discord" width="35px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 </p>
 <p align="center">
 <a href="https://breakdowns.github.io/"> <img src="https://img.shields.io/website?label=%20&style=for-the-badge&up_color=black&up_message=breakdowns.github.io&url=https%3A%2F%2Fbreakdowns.github.io"/></a></p>
+
+<h2 align="center">About</h2>
 
 ```
   Talking about Personal Stuffs:
