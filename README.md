@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://youtu.be/iG1gPLOceCQ">
-  <img src="https://telegra.ph/file/a30c5dfe38ef486585108.jpg"/>
+  <img src="https://raw.githubusercontent.com/breakdowns/breakdowns/P/IMG_20201224_101202.jpg"/>
 </p>
 
 <p align="center">
