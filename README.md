@@ -36,4 +36,6 @@
   <img src="https://lastfm-recently-played.vercel.app/api?user=Hafitz&count=3&width=490" alt="Last.fm-Recent" /></a>
 </p>
 
+<h2 align="center">Github Stats</h2>
+
 <p align="center"><a href="https://github.com/breakdowns"><img src="https://github-readme-stats.vercel.app/api?username=breakdowns&&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116"></a></p>
