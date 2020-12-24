@@ -32,6 +32,8 @@
      "Fact: I am a Noobie."
 ```
 
+<h2 align="center">Recently played</h2>
+
 <p align="center">
   <img src="https://lastfm-recently-played.vercel.app/api?user=Hafitz&count=3&width=490" alt="Last.fm-Recent" /></a>
 </p>
