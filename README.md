@@ -17,7 +17,7 @@
 </a>
 <a href="https://breakdowns.github.io/"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a></p>
 
-<h3 align="center">About Me🧛</h>
+<h4 align="center">About Me🧛</h>
 
 ```
    "I’m looking to collaborate on Project."
@@ -27,12 +27,12 @@
   "Fact: I am a Noobie."
 ```
 
-<h3 align="center">Recently played🎵</h2>
+<h4 align="center">Recently played🎵</h2>
 
 <p align="center">
   <img src="https://lastfm-recently-played.vercel.app/api?user=Hafitz&count=3&width=490" alt="Last.fm-Recent" /></a>
 </p>
 
-<h3 align="center">Github Stats🦑</h2>
+<h4 align="center">Github Stats🦑</h2>
 
 <p align="center"><a href="https://github.com/breakdowns"><img src="https://github-readme-stats.vercel.app/api?username=breakdowns&&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116"></a></p>
