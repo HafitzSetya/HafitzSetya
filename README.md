@@ -24,7 +24,7 @@
    "I’m currently working on something cool."
    "I’m looking for help with Open Source."
    "Ask me about anything, always ready to help."
-  "Fact: I am a Noobie."
+   "Fact: I am a Noobie."
 ```
 
 <h4 align="center">Recently played🎵</h2>
