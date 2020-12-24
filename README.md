@@ -5,7 +5,6 @@
   <img src="https://raw.githubusercontent.com/breakdowns/breakdowns/P/IMG_20201224_101202.jpg"/>
 </p>
 
-
 <p align="center">
   <a href="https://www.instagram.com/hafitzsetya_21">
   <img alt="Hafitz's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -21,11 +20,11 @@
 <h2 align="center">About Me🧛</h>
 
 ```
-"I’m looking to collaborate on Project."
-"I’m currently working on something cool."
-"I’m looking for help with Open Source."
-"Ask me about anything, always ready to help."
-"Fact: I am a Noobie."
+  "I’m looking to collaborate on Project."
+  "I’m currently working on something cool."
+  "I’m looking for help with Open Source."
+  "Ask me about anything, always ready to help."
+  "Fact: I am a Noobie."
 ```
 
 <h2 align="center">Recently played🎵</h2>
