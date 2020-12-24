@@ -15,6 +15,9 @@
 <a href="https://discordapp.com/users/455173359924412434">
   <img alt=Hafitz's Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
+<a href="https://twitter.com/21Hafitz">
+  <img alt=Hafitz's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 </p>
 
 <h4 align="center">About Me 🧛</h4>
