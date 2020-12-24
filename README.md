@@ -5,7 +5,6 @@
   <img src="https://raw.githubusercontent.com/breakdowns/breakdowns/P/IMG_20201224_101202.jpg"/>
 </p>
 
-<h2 align="center">Social🌏</h2>
 
 <p align="center">
   <a href="https://www.instagram.com/hafitzsetya_21">
