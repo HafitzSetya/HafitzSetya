@@ -2,6 +2,7 @@
   <img alt="Hafitz's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram&logoColor=white&label=@hafitzXD" />
 </a>
 
+
 <p align="center">
   <img src="https://lastfm-recently-played.vercel.app/api?user=Hafitz&count=3&width=490" alt="Last.fm-Recent" /></a>
 </p>
