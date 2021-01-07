@@ -1,5 +1,5 @@
 <a href="https://t.me/hafitzXD">
-  <img alt="Hafitz's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=@hafitzXD" />
+  <img alt="Hafitz's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=appveyor&logo=telegram&logoColor=white&label=@hafitzXD" />
 </a>
 
 <p align="center">
