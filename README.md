@@ -3,3 +3,6 @@
 <a href="https://t.me/hafitzXD">
   <img alt="Hafitz's Telegram" src="https://img.shields.io/badge/2CA5E0?style=social&logo=telegram&logoColor=white&label=@hafitzXD" />
 </a>
+
+<a href="https://t.me/hafitzXD"> <img src="https://img.shields.io/badge/@hafitzXD-blue?style=social&logo=Telegram" /></a>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hafitzXD
