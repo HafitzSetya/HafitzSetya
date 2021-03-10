@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/breakdowns/t/Master/Shrine%20Of%20Malice.png?token=AQ7BPTFAK4AJYABM6RIFCZDAJFJMC"/></p>
+<img src="https://telegra.ph/file/db03910496f06094f1f7a.jpg"/></p>
 
 <a href="https://t.me/hafitzXD">
   <img src="https://img.shields.io/badge/@hafitzXD-blue?style=social&logo=Telegram"/></a>
